@@ -74,3 +74,5 @@ The logger also uses the `winston` library to log messages at different levels (
 * [ExpressJS](https://expressjs.com/)
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [nodemon](https://www.npmjs.com/package/nodemon)
+* [winston](https://www.npmjs.com/package/winston)
+* [morgan](https://www.npmjs.com/package/morgan)
