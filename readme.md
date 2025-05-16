@@ -54,6 +54,20 @@ Update a tea entry by ID
 
 Delete a tea entry by ID
 
+## Logging
+--------
+
+The server uses a custom logging middleware to log incoming requests. The logger writes log messages to the console in the following format:
+
+`:method :url :status :response-time ms`
+
+For example:
+
+`GET /teas 200 10ms`
+
+The logger also uses the `winston` library to log messages at different levels (e.g., info, error). You can configure the logging level by modifying the `logger.js` file.
+
+
 ## Dependencies
 ------------
 
