@@ -60,7 +60,3 @@ Delete a tea entry by ID
 * [ExpressJS](https://expressjs.com/)
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [nodemon](https://www.npmjs.com/package/nodemon)
-
-Note that this is a basic draft, and you may want to add more details, such as error handling, authentication, or additional API endpoints.
-
-Please let me know if you'd like me to add anything else!
