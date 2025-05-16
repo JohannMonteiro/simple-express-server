@@ -1,0 +1,23 @@
+{
+  "name": "expressjs-server",
+  "version": "1.0.0",
+  "description": "simple server made with ExpressJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "mongoose"
+  ],
+  "author": "Johann Monteiro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
